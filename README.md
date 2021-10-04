@@ -3,9 +3,11 @@
 
 <div align="center">
   <a href="https://github.com/Leonerdo15">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonerdo15&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=4EB3F9"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonerdo15&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonerdo15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonerdo15&layout=compact&langs_count=7&theme=react"/>
 </div>
+  
+  ### Languages: 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -13,6 +15,10 @@
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
 </div>
+  
+  ##
+  
+  ### Tools:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
