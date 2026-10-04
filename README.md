@@ -1,34 +1,51 @@
-### Hi, I'm Leonardo Lage student of software engineer
+# Leonardo Rodrigues
 
+**Software Engineer | Backend | AI/ML**
 
-<div align="center">
-  <a href="https://github.com/Leonerdo15">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Leonerdo15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonerdo15&layout=compact&langs_count=7&theme=react"/>
-</div>
-  
-  ### Languages: 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-</div>
-  
-  ##
-  
-  ### Tools:
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-  <img align="center" alt="Leo-Spring-Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-</div>
-  
-  ##
-  
-<div>
-  <a href = "mailto:leonardolage10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-lage-b2547a20b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+Informatics Engineering graduate focused on backend development and applied AI/ML. My work spans REST APIs, PostgreSQL-backed applications, recommendation algorithms, and data/audio research.
+
+Previously, **AI/ML Research Fellow at UNIDCOM / IADE** (Jul 2024 - Jul 2025), reviewing ML literature and running classification experiments with synthetic data, with attention to class imbalance, interpretability, and methodological limitations.
+
+[Selected work](#selected-work) · [LinkedIn](https://www.linkedin.com/in/leonardo-lage-rodrigues/) · [Email](mailto:leonardolage10@gmail.com)
+
+## Selected work
+
+### Domestic violence data research
+
+*Private research project · Exploratory academic work*
+
+Developed notebooks for questionnaire preprocessing and clustering, speaker diarization and Portuguese transcription, and exploratory transcript classification with Word2Vec and a bidirectional LSTM.
+
+**Tools:** Python, pandas, scikit-learn, TensorFlow/Keras, PyTorch/torchaudio, pyannote.audio, Whisper.
+
+### [Spot recommendation prototype](https://github.com/Leonerdo15/flaskProject_KNN)
+
+Implemented custom user-based collaborative filtering with KNN, comparing ratings on shared spots, selecting nearest neighbours, and ranking unrated candidates. The Flask application connects to PostgreSQL for spot and rating data.
+
+**Tools:** Python, Flask, PostgreSQL, NumPy, pandas.
+
+### [ULIDE Party](https://github.com/Leonerdo15/Ulide_Party2)
+
+Contributed to an academic team project for nightlife discovery and social features: Node.js/Express REST routes and SQL models for favourites, reviews, groups, and stored messages, plus PostGIS spatial venue queries. Project work also included Docker Compose, Nginx, and Pgpool infrastructure experiments.
+
+**Tools:** JavaScript, Node.js, Express, PostgreSQL/PostGIS, Docker Compose, Nginx, Pgpool.
+
+### [ULIDE Android](https://github.com/Leonerdo15/Ulide)
+
+Co-developed a Java/Android app for discovering Lisbon attractions and exploring mapped routes. Integrated Google Maps/Places/Directions and REST data within a team architecture using a separate Spring Boot API and PostgreSQL.
+
+**Tools:** Java, Android, Spring Boot, PostgreSQL, Google Maps/Places/Directions.
+
+### [Smart Helmet](https://github.com/Leonerdo15/smart-helmet)
+
+Contributed to an IoT prototype combining ESP32/Arduino firmware, Android, and a Node.js/Express backend with PostgreSQL/PostGIS. Explored sensor telemetry, phone/device communication, and an MPU6050 acceleration-threshold impact-alert experiment.
+
+**Tools:** ESP32/Arduino, Java/Android, Node.js/Express, PostgreSQL/PostGIS, MPU6050.
+
+## Technical toolkit
+
+- **Languages:** Python, Java, JavaScript, SQL.
+- **Backend & databases:** Flask, Spring Boot, Node.js/Express, REST APIs, PostgreSQL, PostGIS.
+- **AI & data:** pandas, NumPy, scikit-learn, PyTorch, TensorFlow/Keras.
+- **Audio:** torchaudio, pyannote.audio, Whisper.
+- **Development & infrastructure:** Git, Jupyter, Maven; Docker, Docker Compose, Nginx, and Pgpool through academic experiments.
