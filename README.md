@@ -1,51 +1,64 @@
-# Leonardo Rodrigues
+<div align="center">
 
-**Software Engineer | Backend | AI/ML**
+<sub><code>LEONERDO15 / ENGINEERING PORTFOLIO</code></sub>
 
-Informatics Engineering graduate focused on backend development and applied AI/ML. My work spans REST APIs, PostgreSQL-backed applications, recommendation algorithms, and data/audio research.
+<h1>Leonardo Rodrigues</h1>
 
-Previously, **AI/ML Research Fellow at UNIDCOM / IADE** (Jul 2024 - Jul 2025), reviewing ML literature and running classification experiments with synthetic data, with attention to class imbalance, interpretability, and methodological limitations.
+<p><strong>Software Engineer | Backend | AI/ML</strong></p>
 
-[Selected work](#selected-work) · [LinkedIn](https://www.linkedin.com/in/leonardo-lage-rodrigues/) · [Email](mailto:leonardolage10@gmail.com)
+<p>Informatics Engineering graduate<br>
+Former AI/ML Research Fellow · UNIDCOM / IADE</p>
 
-## Selected work
+<p>
+<a href="https://www.linkedin.com/in/leonardo-lage-rodrigues/"><strong>LinkedIn ↗︎</strong></a>
+&nbsp; / &nbsp;
+<a href="mailto:leonardolage10@gmail.com"><strong>Email ↗︎</strong></a>
+</p>
 
-### Domestic violence data research
+</div>
 
-*Private research project · Exploratory academic work*
+## `01` / Selected work
 
-Developed notebooks for questionnaire preprocessing and clustering, speaker diarization and Portuguese transcription, and exploratory transcript classification with Word2Vec and a bidirectional LSTM.
+<table align="center">
+<tbody>
+<tr>
+<td width="36"><code>01</code></td>
+<td><strong>Domestic violence data research</strong><br><sub>PRIVATE · EXPLORATORY RESEARCH</sub><br><a href="mailto:leonardolage10@gmail.com?subject=Private%20research%20project">Discuss the research ↗︎</a></td>
+</tr>
+<tr>
+<td><code>02</code></td>
+<td><a href="https://github.com/Leonerdo15/flaskProject_KNN"><strong>KNN Recommendations ↗︎</strong></a><br><sub>Python · Flask · PostgreSQL</sub></td>
+</tr>
+<tr>
+<td><code>03</code></td>
+<td><a href="https://github.com/Leonerdo15/Ulide_Party2"><strong>ULIDE Party ↗︎</strong></a><br><sub>Backend · Geospatial · Team project</sub></td>
+</tr>
+<tr>
+<td><code>04</code></td>
+<td><a href="https://github.com/Leonerdo15/Ulide"><strong>ULIDE Android ↗︎</strong></a><br><sub>Java · Maps · Team project</sub></td>
+</tr>
+<tr>
+<td><code>05</code></td>
+<td><a href="https://github.com/Leonerdo15/smart-helmet"><strong>Smart Helmet ↗︎</strong></a><br><sub>ESP32 · Android · IoT prototype</sub></td>
+</tr>
+</tbody>
+</table>
 
-**Tools:** Python, pandas, scikit-learn, TensorFlow/Keras, PyTorch/torchaudio, pyannote.audio, Whisper.
+## `02` / Toolkit
 
-### [Spot recommendation prototype](https://github.com/Leonerdo15/flaskProject_KNN)
+<p align="center">
+<sub><strong>LANGUAGES</strong></sub><br>
+<img src="https://skillicons.dev/icons?i=py,java,js&theme=dark" width="160" alt="Python, Java, JavaScript" title="Python · Java · JavaScript">
+</p>
 
-Implemented custom user-based collaborative filtering with KNN, comparing ratings on shared spots, selecting nearest neighbours, and ranking unrated candidates. The Flask application connects to PostgreSQL for spot and rating data.
+<p align="center">
+<sub><strong>BACKEND &amp; DATABASES</strong></sub><br>
+<img src="https://skillicons.dev/icons?i=flask,spring,nodejs,express,postgres&theme=dark" width="270" alt="Flask, Spring Boot, Node.js, Express, PostgreSQL" title="Flask · Spring Boot · Node.js · Express · PostgreSQL">
+</p>
 
-**Tools:** Python, Flask, PostgreSQL, NumPy, pandas.
+<p align="center">
+<sub><strong>AI &amp; DEVELOPMENT TOOLS</strong></sub><br>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,git,docker&theme=dark" width="270" alt="scikit-learn, PyTorch, TensorFlow, Git, Docker" title="scikit-learn · PyTorch · TensorFlow/Keras · Git · Docker">
+</p>
 
-### [ULIDE Party](https://github.com/Leonerdo15/Ulide_Party2)
-
-Contributed to an academic team project for nightlife discovery and social features: Node.js/Express REST routes and SQL models for favourites, reviews, groups, and stored messages, plus PostGIS spatial venue queries. Project work also included Docker Compose, Nginx, and Pgpool infrastructure experiments.
-
-**Tools:** JavaScript, Node.js, Express, PostgreSQL/PostGIS, Docker Compose, Nginx, Pgpool.
-
-### [ULIDE Android](https://github.com/Leonerdo15/Ulide)
-
-Co-developed a Java/Android app for discovering Lisbon attractions and exploring mapped routes. Integrated Google Maps/Places/Directions and REST data within a team architecture using a separate Spring Boot API and PostgreSQL.
-
-**Tools:** Java, Android, Spring Boot, PostgreSQL, Google Maps/Places/Directions.
-
-### [Smart Helmet](https://github.com/Leonerdo15/smart-helmet)
-
-Contributed to an IoT prototype combining ESP32/Arduino firmware, Android, and a Node.js/Express backend with PostgreSQL/PostGIS. Explored sensor telemetry, phone/device communication, and an MPU6050 acceleration-threshold impact-alert experiment.
-
-**Tools:** ESP32/Arduino, Java/Android, Node.js/Express, PostgreSQL/PostGIS, MPU6050.
-
-## Technical toolkit
-
-- **Languages:** Python, Java, JavaScript, SQL.
-- **Backend & databases:** Flask, Spring Boot, Node.js/Express, REST APIs, PostgreSQL, PostGIS.
-- **AI & data:** pandas, NumPy, scikit-learn, PyTorch, TensorFlow/Keras.
-- **Audio:** torchaudio, pyannote.audio, Whisper.
-- **Development & infrastructure:** Git, Jupyter, Maven; Docker, Docker Compose, Nginx, and Pgpool through academic experiments.
+<p align="center"><sub>pandas · NumPy · PostGIS · Whisper · pyannote.audio</sub></p>
