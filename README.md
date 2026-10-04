@@ -1,64 +1,74 @@
-<p><code>LEONERDO15</code> / ENGINEERING PORTFOLIO</p>
+<div align="center">
 
-# Leonardo Rodrigues
+<picture>  <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/hero-mobile-dark.svg">  <source media="(max-width: 560px) and (prefers-color-scheme: light)" srcset="./assets/portfolio/hero-mobile-light.svg">  <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio/hero-light.svg">  <img src="./assets/portfolio/hero-dark.svg" width="100%" alt="Leonardo Rodrigues — Software Engineer · Backend · AI/ML"></picture>
 
-### Software Engineer | Backend | AI/ML
+<p>Informatics Engineering graduate<br>
+Former AI/ML Research Fellow · UNIDCOM / IADE</p>
 
-Informatics Engineering graduate  
-Former AI/ML Research Fellow · UNIDCOM / IADE
+<p><a href="https://www.linkedin.com/in/leonardo-lage-rodrigues/"><picture>  <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio/linkedin-light.svg">  <img src="./assets/portfolio/linkedin-dark.svg" width="118" alt="LinkedIn profile"></picture></a>
+&nbsp;
+<a href="mailto:leonardolage10@gmail.com"><picture>  <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio/email-light.svg">  <img src="./assets/portfolio/email-dark.svg" width="104" alt="Email Leonardo Rodrigues"></picture></a></p>
 
-[LinkedIn ↗︎](https://www.linkedin.com/in/leonardo-lage-rodrigues/) &nbsp; · &nbsp; [Email ↗︎](mailto:leonardolage10@gmail.com)
+</div>
 
-## Selected work
-
-### Domestic violence data research
-
-**Private · Exploratory research**  
-[Discuss the research ↗︎](mailto:leonardolage10@gmail.com?subject=Private%20research%20project)
-
-### [KNN Recommendations ↗︎](https://github.com/Leonerdo15/flaskProject_KNN)
-
-Python · Flask · PostgreSQL
-
-### [ULIDE Party ↗︎](https://github.com/Leonerdo15/Ulide_Party2)
-
-Backend · Geospatial · Team project
-
-### [ULIDE Android ↗︎](https://github.com/Leonerdo15/Ulide)
-
-Java · Maps · Team project
-
-### [Smart Helmet ↗︎](https://github.com/Leonerdo15/smart-helmet)
-
-ESP32 · Android · IoT prototype
-
-## Toolkit
-
-#### Languages
+<h2>Selected work</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=py,java,js&theme=dark" height="48" alt="Python, Java, JavaScript" title="Python · Java · JavaScript">
+<a href="mailto:leonardolage10@gmail.com?subject=Private%20research%20project"><picture>  <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/research-mobile-dark.svg">  <source media="(max-width: 560px) and (prefers-color-scheme: light)" srcset="./assets/portfolio/research-mobile-light.svg">  <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio/research-light.svg">  <img src="./assets/portfolio/research-dark.svg" width="100%" alt="Domestic violence data research — Private · Exploratory research Discuss the research. Discuss via email."></picture></a>
 </p>
 
-#### Backend &amp; databases
-
 <p>
-<img src="https://skillicons.dev/icons?i=flask,spring,nodejs,express,postgres&theme=dark" height="48" alt="Flask, Spring Boot, Node.js, Express, PostgreSQL" title="Flask · Spring Boot · Node.js · Express · PostgreSQL">
-<br>
-<img src="https://img.shields.io/badge/PostGIS-242938?style=flat-square" width="77" height="28" alt="PostGIS">
+<a href="https://github.com/Leonerdo15/flaskProject_KNN"><picture>  <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/knn-mobile-dark.svg">  <source media="(max-width: 560px) and (prefers-color-scheme: light)" srcset="./assets/portfolio/knn-mobile-light.svg">  <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio/knn-light.svg">  <img src="./assets/portfolio/knn-dark.svg" width="100%" alt="KNN Recommendations — User-based recommendations from shared ratings. Python · Flask · PostgreSQL. Open repository."></picture></a>
 </p>
 
-#### AI &amp; development tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,git,docker&theme=dark" height="48" alt="scikit-learn, PyTorch, TensorFlow/Keras, Git, Docker" title="scikit-learn · PyTorch · TensorFlow/Keras · Git · Docker">
+<a href="https://github.com/Leonerdo15/Ulide_Party2"><picture>  <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/party-mobile-dark.svg">  <source media="(max-width: 560px) and (prefers-color-scheme: light)" srcset="./assets/portfolio/party-mobile-light.svg">  <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio/party-light.svg">  <img src="./assets/portfolio/party-dark.svg" width="100%" alt="ULIDE Party — Lisbon nightlife discovery with geospatial APIs. Node.js · Express · PostGIS · Team project. Open repository."></picture></a>
 </p>
 
-#### Data &amp; audio
+<p>
+<a href="https://github.com/Leonerdo15/Ulide"><picture>  <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/android-mobile-dark.svg">  <source media="(max-width: 560px) and (prefers-color-scheme: light)" srcset="./assets/portfolio/android-mobile-light.svg">  <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio/android-light.svg">  <img src="./assets/portfolio/android-dark.svg" width="100%" alt="ULIDE Android — Lisbon places and routes on Android. Java · Google Maps · Team project. Open repository."></picture></a>
+</p>
 
 <p>
-<img src="https://img.shields.io/badge/pandas-242938?style=flat-square&amp;logo=pandas&amp;logoColor=white" width="94" height="28" alt="pandas">
-<img src="https://img.shields.io/badge/NumPy-242938?style=flat-square&amp;logo=numpy&amp;logoColor=white" width="94" height="28" alt="NumPy">
-<img src="https://img.shields.io/badge/Whisper-242938?style=flat-square" width="77" height="28" alt="Whisper">
-<img src="https://img.shields.io/badge/pyannote.audio-242938?style=flat-square" width="133" height="28" alt="pyannote.audio">
+<a href="https://github.com/Leonerdo15/smart-helmet"><picture>  <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/helmet-mobile-dark.svg">  <source media="(max-width: 560px) and (prefers-color-scheme: light)" srcset="./assets/portfolio/helmet-mobile-light.svg">  <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio/helmet-light.svg">  <img src="./assets/portfolio/helmet-dark.svg" width="100%" alt="Smart Helmet — ESP32 telemetry with an Android companion. ESP32 · Android · Node.js · IoT prototype. Open repository."></picture></a>
+</p>
+
+<h2>Toolkit</h2>
+
+<h4>Languages</h4>
+
+<p>
+<img src="./assets/portfolio/tech-py.svg" width="82" height="86" alt="Python">
+<img src="./assets/portfolio/tech-java.svg" width="82" height="86" alt="Java">
+<img src="./assets/portfolio/tech-js.svg" width="82" height="86" alt="JavaScript">
+</p>
+
+<h4>Backend &amp; databases</h4>
+
+<p>
+<img src="./assets/portfolio/tech-flask.svg" width="82" height="86" alt="Flask">
+<img src="./assets/portfolio/tech-spring.svg" width="82" height="86" alt="Spring Boot">
+<img src="./assets/portfolio/tech-nodejs.svg" width="82" height="86" alt="Node.js">
+<img src="./assets/portfolio/tech-express.svg" width="82" height="86" alt="Express">
+<img src="./assets/portfolio/tech-postgres.svg" width="82" height="86" alt="PostgreSQL">
+<img src="./assets/portfolio/tech-postgis.svg" width="82" height="86" alt="PostGIS">
+</p>
+
+<h4>AI &amp; development tools</h4>
+
+<p>
+<img src="./assets/portfolio/tech-sklearn.svg" width="82" height="86" alt="scikit-learn">
+<img src="./assets/portfolio/tech-pytorch.svg" width="82" height="86" alt="PyTorch">
+<img src="./assets/portfolio/tech-tensorflow.svg" width="82" height="86" alt="TensorFlow / Keras">
+<img src="./assets/portfolio/tech-git.svg" width="82" height="86" alt="Git">
+<img src="./assets/portfolio/tech-docker.svg" width="82" height="86" alt="Docker">
+</p>
+
+<h4>Data &amp; audio</h4>
+
+<p>
+<img src="./assets/portfolio/tech-pandas.svg" width="82" height="86" alt="pandas">
+<img src="./assets/portfolio/tech-numpy.svg" width="82" height="86" alt="NumPy">
+<img src="./assets/portfolio/tech-whisper.svg" width="82" height="86" alt="Whisper">
+<img src="./assets/portfolio/tech-pyannote.svg" width="82" height="86" alt="pyannote.audio">
 </p>
